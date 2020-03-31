@@ -1,8 +1,8 @@
 {
   "name": "YouTube",
   "date": "26.03.2020",
-  "version": "1.0",
-  "description": "YouTube — популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+  "version": "1.2",
+  "description": "YouTube — Um serviço popular de hospedagem de vídeo global, onde os usuários podem adicionar, visualizar, comentar e compartilhar vídeos com os amigos.",
   "author": {
     "name": "BetaMaster"
   },
@@ -16,7 +16,7 @@
     "backgroundColor": "#c12226",
     "name": "YouTube",
     "legacy": true,
-    "description": "YouTube — популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+    "description": "YouTube — Um serviço popular de hospedagem de vídeo global, onde os usuários podem adicionar, visualizar, comentar e compartilhar vídeos com os amigos.",
     "icons": {
       "paths": {
         "480": "apps/magcore-app-youtube/3.0.13/img/480/",
@@ -31,3 +31,4 @@
     }
   }
 }
+
