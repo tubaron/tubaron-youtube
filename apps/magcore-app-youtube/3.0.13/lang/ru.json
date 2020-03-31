@@ -46,29 +46,29 @@
 				"minutos"
 			],
 			"month": [
-				"месяц",
-				"месяца",
-				"месяцев"
+				"mês",
+				"meses",
+				"meses"
 			],
 			"second": [
-				"секунда",
-				"секунды",
-				"се"
+				"segundo",
+				"segundos",
+				"seg"
 			],
 			"subscriber": [
-				"подписчик",
-				"подписчика",
-				"подписчиков"
+				"inscrito",
+				"inscritos",
+				"inscritos"
 			],
 			"view": [
-				"просмотр",
-				"просмотра",
-				"просмотров"
+				"visualização",
+				"visualizações",
+				"visualizações"
 			],
 			"year": [
-				"год",
-				"года",
-				"лет"
+				"ano",
+				"anos",
+				"anos"
 			]
 		}
 	}
