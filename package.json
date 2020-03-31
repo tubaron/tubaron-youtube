@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/tubaron/tubaron-youtube"
+=======
+    "url": "https://github.com/tubaron/tubaron-youtube.git"
+>>>>>>> 8195dd6323effcd44f50879e9448bfe88576abfe
   },
   "config": {
     "type": "app",
