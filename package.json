@@ -2,13 +2,13 @@
   "name": "YouTube",
   "date": "26.03.2020",
   "version": "4.0.3",
-  "description": "YouTube — популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+  "description": "YouTube — Um serviço popular de hospedagem de vídeo global, onde os usuários podem adicionar, visualizar, comentar e compartilhar vídeos com os amigos.",
   "author": {
     "name": "BetaMaster"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/betamaster2/youtube.git"
+    "url": "https://github.com/tubaron/tubaron-youtube"
   },
   "config": {
     "type": "app",
@@ -16,7 +16,7 @@
     "backgroundColor": "#c12226",
     "name": "YouTube",
     "legacy": true,
-    "description": "YouTube — популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+    "description": "YouTube — Um serviço popular de hospedagem de vídeo global, onde os usuários podem adicionar, visualizar, comentar e compartilhar vídeos com os amigos.",
     "icons": {
       "paths": {
         "480": "apps/magcore-app-youtube/3.0.13/img/480/",
