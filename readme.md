@@ -1,4 +1,4 @@
-![YouTube](raw.githubusercontent.com/tubaron/tubaron-youtube/master/apps/magcore-app-youtube/3.0.13/img/720/icons/2010.png)
+![YouTube](https://raw.githubusercontent.com/betamaster2/youtube/master/apps/magcore-app-youtube/3.0.13/img/720/icons/2010.png)
 
 # YouTube for Stalker Middleware
 O que é corrigido:
